@@ -1,0 +1,22 @@
+#fl{
+    text-align: center;
+    font-size: 200px;
+    color: aliceblue;
+    padding-top: 500px;
+}
+
+#tgline{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    padding-bottom: 500px;
+}
+
+#a{
+    color: darkgrey;
+}
+
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+}
